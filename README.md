@@ -20,6 +20,6 @@ Cassandra Mojica, Anna Jazayeri, Danielle Tourikian, Jason Li, Mahin Chowdhury
 
 ### Interactive Dashboard
 
-Using Streamlit, this dashboard displays compelling data-driven insights and visualizations involving quantified political leanings and toxicity detection throughout Reddit's top politically-themed subreddits such as /r/politics, /r/trump, and /r/ontario. 
+Using Streamlit, this user-friendly dashboard displays compelling data-driven insights and visualizations involving quantified political leanings and toxicity detection throughout Reddit's top politically-themed subreddits such as /r/politics, /r/trump, and /r/ontario. 
 
 Data gathered involves over an accumulated 200,000 Reddit posts and comments found in the website's politically-themed subreddits. 
