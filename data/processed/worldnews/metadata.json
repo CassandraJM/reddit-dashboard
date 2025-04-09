@@ -1,0 +1,18 @@
+{
+  "sentiment_avg": 0.059873051738372436,
+  "sentiment_distribution": {
+    "positive": 0.11022997620935765,
+    "neutral": 0.837694951097013,
+    "negative": 0.0520750726936294
+  },
+  "toxicity_avg": 0.34919376156489557,
+  "toxic_comments_ratio": 0.2437219138250066,
+  "political_lean": {
+    "left": 0.1379857256145916,
+    "right": 0.11393074279672218,
+    "predicted_left": 0.0,
+    "predicted_right": 1.0
+  },
+  "avg_upvotes": 39.763415278879194,
+  "total_comments": 3783
+}
