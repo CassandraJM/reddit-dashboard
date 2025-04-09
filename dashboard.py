@@ -6,6 +6,8 @@ import streamlit as st
 from PIL import Image
 import os
 
+st.set_page_config(layout="wide", initial_sidebar_state="collapsed")
+
 # NOTE: More Streamlit documentation and methods found in: https://docs.streamlit.io/get-started/fundamentals/main-concepts
 
 MAIN_TITLE = "Subreddit Analysis Dashboard"
